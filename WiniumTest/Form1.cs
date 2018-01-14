@@ -108,11 +108,21 @@ namespace WiniumTest
             {
                 _driver.FindElementByAccessibilityId("Button1").Click();
             }
+          
             
             for(int i = 0; i < 2;i++)
             {
+                try
+                {
+                    System.Windows.Forms.SendKeys.Send("{ENTER}");
+
+                    _driver.FindElementByAccessibilityId("Button3").Click();
+                }
+
+                catch { }
+                
                 _driver.FindElementByAccessibilityId("Button3").Click();
-                Thread.Sleep(50000);
+                Thread.Sleep(1000);
             }
            
            

@@ -17,3 +17,23 @@ C:\Users\maugu\documents\visual studio 2017\Projects\WiniumTest\WiniumTest\bin\D
 C:\Users\maugu\documents\visual studio 2017\Projects\WiniumTest\WiniumTest\bin\Debug\Newtonsoft.Json.xml
 C:\Users\maugu\documents\visual studio 2017\Projects\WiniumTest\WiniumTest\bin\Debug\WebDriver.Support.xml
 C:\Users\maugu\documents\visual studio 2017\Projects\WiniumTest\WiniumTest\obj\Debug\WiniumTest.csprojResolveAssemblyReference.cache
+C:\add\a2meF_winim\WiniumTest\bin\Debug\WiniumTest.exe.config
+C:\add\a2meF_winim\WiniumTest\bin\Debug\WiniumTest.exe
+C:\add\a2meF_winim\WiniumTest\bin\Debug\WiniumTest.pdb
+C:\add\a2meF_winim\WiniumTest\bin\Debug\appium-dotnet-driver.dll
+C:\add\a2meF_winim\WiniumTest\bin\Debug\Castle.Core.dll
+C:\add\a2meF_winim\WiniumTest\bin\Debug\Newtonsoft.Json.dll
+C:\add\a2meF_winim\WiniumTest\bin\Debug\WebDriver.dll
+C:\add\a2meF_winim\WiniumTest\bin\Debug\WebDriver.Support.dll
+C:\add\a2meF_winim\WiniumTest\bin\Debug\appium-dotnet-driver.xml
+C:\add\a2meF_winim\WiniumTest\bin\Debug\Castle.Core.xml
+C:\add\a2meF_winim\WiniumTest\bin\Debug\Newtonsoft.Json.xml
+C:\add\a2meF_winim\WiniumTest\bin\Debug\WebDriver.xml
+C:\add\a2meF_winim\WiniumTest\bin\Debug\WebDriver.Support.xml
+C:\add\a2meF_winim\WiniumTest\obj\Debug\WiniumTest.csprojResolveAssemblyReference.cache
+C:\add\a2meF_winim\WiniumTest\obj\Debug\WiniumTest.Form1.resources
+C:\add\a2meF_winim\WiniumTest\obj\Debug\WiniumTest.Properties.Resources.resources
+C:\add\a2meF_winim\WiniumTest\obj\Debug\WiniumTest.csproj.GenerateResource.Cache
+C:\add\a2meF_winim\WiniumTest\obj\Debug\WiniumTest.csproj.CoreCompileInputs.cache
+C:\add\a2meF_winim\WiniumTest\obj\Debug\WiniumTest.exe
+C:\add\a2meF_winim\WiniumTest\obj\Debug\WiniumTest.pdb
