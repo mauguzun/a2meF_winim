@@ -110,19 +110,20 @@ namespace WiniumTest
             }
           
             
-            for(int i = 0; i < 2;i++)
+            for(int i = 0; i < 4;i++)
             {
                 try
                 {
-                    System.Windows.Forms.SendKeys.Send("{ENTER}");
-
                     _driver.FindElementByAccessibilityId("Button3").Click();
+                   
+                    System.Windows.Forms.SendKeys.Send("{ENTER}");
+                   
+                    Thread.Sleep(1000);
                 }
 
                 catch { }
-                
-                _driver.FindElementByAccessibilityId("Button3").Click();
-                Thread.Sleep(1000);
+              
+               
             }
            
            
